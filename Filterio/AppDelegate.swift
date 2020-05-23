@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Filterio
-//
-//  Created by Au Pair on 4/29/20.
-//  Copyright © 2020 papas000. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
